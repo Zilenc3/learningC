@@ -1,0 +1,2 @@
+# learningC
+Making useless programs
